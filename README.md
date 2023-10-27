@@ -1,2 +1,2 @@
 # engineeringprojectsbykb
-Welcome everyone to this repository. Hi, as you know me, I am Koustav Bhattacharjee, a mechanical engineering student who is working and tinkering on various parts of the subject here are all my software-based projects, small or big, that I will happily contribute to keeping track for myself as well as may be others to take inspiration or to help me correct my mistakes through this interesting path.
+This branch sums up all my projects done in SolidWorks Software.
